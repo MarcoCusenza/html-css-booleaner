@@ -17,8 +17,45 @@ header{
     margin-top: 4vh;
     margin-left: 1vh;
 }
+/* / header*/
+
 
 /* ********* main */
+main{
+    width: 98vw;
+    margin: auto;
+    margin-top: 2vh;
+}
+
+/* ********* Sezione titolo-autore-data */
+h1{
+    font-size: 4vh;
+}
+
+.sottotitolo{
+    color: grey;
+}
+
+.sott-uno{
+    font-size: 2vh;
+    display: inline-block;
+}
+
+#sigla{
+    display: inline-block;
+    color: #53a9ff;
+}
+
+.sott-due{
+    font-size: 1.3vh;
+}
+/* / Sezione titolo-autore-data*/
+
+
+
+/* / main */
 
 
 /* ********* footer */
+
+/* / footer*/

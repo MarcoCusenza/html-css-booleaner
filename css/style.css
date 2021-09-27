@@ -6,7 +6,7 @@
 /* ********* header */
 header{
     height: 10vh;
-    background-image: url("img/pattern.png");
+    background-image: url("../img/pattern.png");
     background-size: 40vh;
     background-position: top;
     background-color: #53a9ff;

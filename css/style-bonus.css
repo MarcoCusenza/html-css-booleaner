@@ -38,7 +38,7 @@ h1{
 }
 
 .sott-uno{
-    font-size: 2vh;
+    font-size: 1.8vh;
     display: inline-block;
 }
 
@@ -85,7 +85,7 @@ h1{
 /* ********* Sezione paragrafi pre-tabella */
 .std{
     margin-top: 3vh;
-    font-size: 1.8vh;
+    font-size: 1.6vh;
 }
 
 .highlighter{
@@ -94,7 +94,7 @@ h1{
 
 .lista{
     /*So che non si dovrebbero mai usare margin negativi, ma non ho trovato altro modo per farlo funzionare*/
-    margin-left: -.7vw;
+    margin-left: -20px;
 }
 /* / Sezione paragrafi pre-tabella */
 
@@ -142,7 +142,7 @@ h2{
 
 .img-footer{
     height: 20vh;
-    width: 20vw;
+    width: 22vw;
     margin: left;
     margin-top: 1.5vh;
     padding-top: 1vh;

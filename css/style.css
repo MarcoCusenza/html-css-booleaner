@@ -25,12 +25,13 @@ main{
     width: 98vw;
     margin: auto;
     margin-top: 2vh;
+    margin-left: 1vw;
 }
 
 
 /* ********* Sezione titolo-autore-data */
 h1{
-    font-size: 5vh;
+    font-size: 4vh;
 }
 
 .sottotitolo{
@@ -63,8 +64,8 @@ h1{
     background-image: url("../img/tim-1.jpg");
     background-size: cover;
     background-position: center;
-    width: 51vw;
-    height: 42vh;
+    width: 50vw;
+    height: 40vh;
     display:inline-block;
 }
 
@@ -73,8 +74,8 @@ h1{
     background-image: url("../img/tim-2.jpg");
     background-size: cover;
     background-position: center;
-    width: 41vw;
-    height: 42vh;
+    width: 40vw;
+    height: 40vh;
     display: inline-block;
 }
 
@@ -96,7 +97,7 @@ h1{
 
 .lista{
     /*So che non si dovrebbero mai usare margin negativi, ma non ho trovato altro modo per farlo funzionare*/
-    margin-left: -1vw;
+    margin-left: -.7vw;
 }
 /* / Sezione paragrafi pre-tabella */
 
@@ -127,11 +128,43 @@ classi usate:
 */
 
 /* / Sezione paragrafi post-tabella */
-
-
 /* / main */
 
 
 /* ********* footer */
+footer{
+    width: 98vw;
+    margin: left;
+    margin-top: 2vh;
+    margin-left: 1vw;
+    margin-bottom: 2vw;
+}
 
-/* / footer*/
+h2{
+    color: grey;
+}
+
+.img-footer{
+    height: 20vh;
+    width: 20vw;
+    margin-top: 1.5vh;
+    padding-top: 1vh;
+    padding-left: 1vw;
+    background-position: center;
+    background-size: cover;
+}
+
+.foot-foto-1{
+    background-image: url("../img/monitor.jpg");
+}
+
+.foot-foto-2{
+    background-image: url("../img/graph.jpg");
+}
+
+.scritta-foto{
+    font-size: 2.5vh;
+    color: white;
+}
+
+/* / footer */

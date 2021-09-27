@@ -15,17 +15,16 @@ header{
 #logo{
     height: 5vh;
     margin-top: 4vh;
-    margin-left: 1vw;
+    margin-left: 12vw;
 }
 /* / header*/
 
 
 /* ********* main */
 main{
-    width: 98vw;
+    width: 75vw;
     margin: auto;
     margin-top: 2vh;
-    margin-left: 1vw;
 }
 
 
@@ -63,8 +62,8 @@ h1{
     background-image: url("../img/tim-1.jpg");
     background-size: cover;
     background-position: center;
-    width: 50vw;
-    height: 40vh;
+    width: 40vw;
+    height: 30vh;
     display:inline-block;
 }
 
@@ -72,8 +71,8 @@ h1{
     background-image: url("../img/tim-2.jpg");
     background-size: cover;
     background-position: center;
-    width: 40vw;
-    height: 40vh;
+    width: 32vw;
+    height: 30vh;
     display: inline-block;
 }
 
@@ -131,11 +130,10 @@ classi usate:
 
 /* ********* footer */
 footer{
-    width: 98vw;
+    width: 75vw;
     margin: auto;
     margin-top: 3vh;
-    margin-left: 1vw;
-    margin-bottom: 3vh;
+    margin-bottom: 2vw;
 }
 
 h2{

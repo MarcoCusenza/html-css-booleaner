@@ -101,6 +101,22 @@ h1{
 /* / Sezione paragrafi pre-tabella */
 
 
+/* ********* Sezione tabella */
+.riga-intest{
+    background-color: #37aef3;
+    text-align: left;
+    color: white;
+}
+
+.col12{
+    width: 20vw;
+}
+
+.riga-azzurra{
+    background-color: #71f1fa98;
+}
+/* / Sezione tabella */
+
 
 
 /* / main */
